@@ -54,6 +54,7 @@ const SidebarContainer = styled.div`
     flex: 0.3;
     border-top: 1px solid #49274b;
     max-width: 260px;
+    overflow-y: scroll;
 
     >hr {
         margin-top: 10px;
